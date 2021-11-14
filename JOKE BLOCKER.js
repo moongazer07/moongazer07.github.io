@@ -1,6 +1,8 @@
 // ==UserScript==
 // @name        JOKE BLOCKER
 // @namespace   Violentmonkey Scripts
+// @updateURL    https://raw.githubusercontent.com/moongazer07/moongazer07.github.io/main/JOKE%20BLOCKER.js
+// @downloadURL  https://raw.githubusercontent.com/moongazer07/moongazer07.github.io/main/JOKE%20BLOCKER.js
 // @version     1.0
 // @description block pranks with joke blocker
 // @author      moongazer07
