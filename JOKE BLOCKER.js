@@ -1,6 +1,12 @@
 // ==UserScript==
-// @name        JOKE BLOCK
+// @name        JOKE BLOCKER
 // @namespace   Violentmonkey Scripts
+// @version     1.0
+// @description block pranks with joke blocker
+// @author      moongazer07
+// @icon         https://cdn.discordapp.com/attachments/887488897934848041/908176275225604116/oie_SwLbuM3DM3GQ.jpg
+// @run-at        document-start
+// @run-at        document-load
 // @include       youareanidiot.cc
 // @include       hurr-durr.cc
 // @include       https://www.youtube.com/watch?v=oHg5SJYRHA0
@@ -784,12 +790,7 @@
 // @include       youtu.be/v_y2GC4IE58
 // @include       https://www.youtube.com/c/RickastleyCoUkOfficial
 // @exclude     *youtube.com/
-// @run-at        document-start
-// @run-at        document-load
 // @grant       none
-// @version     1.0
-// @author      moongazer07
-// @description 11/14/2021, 4:46:30 PM
 // ==/UserScript==
 
 window.location.href="https://moongazer07.github.io/docs/index.html";
