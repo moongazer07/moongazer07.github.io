@@ -9,8 +9,8 @@
 // @icon         https://cdn.discordapp.com/attachments/887488897934848041/908176275225604116/oie_SwLbuM3DM3GQ.jpg
 // @run-at        document-start
 // @run-at        document-load
-// @include       youareanidiot.cc
-// @include       hurr-durr.cc
+// @include       https://*youareanidiot.cc
+// @include       https://*hurr-durr.cc
 // @include       https://www.youtube.com/watch?v=oHg5SJYRHA0
 // @include       https://www.youtube.com/watch?v=8ybW48rKBME
 // @include       https://www.youtube.com/watch?v=ub82Xb1C8os
