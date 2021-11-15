@@ -331,7 +331,6 @@
 // @include       https://www.youtube.com/watch?v=kYJNyD2jOCk
 // @include       https://www.youtube.com/watch?v=ftqaCFiKkX8
 // @include       https://www.youtube.com/watch?v=uNeXW5nwDVs
-// @include       https://web.whatsapp.com/
 // @include       https://stephaneginier.com/sculptgl/
 // @include       https://www.youtube.com/watch?v=4G0uhL6W2_k
 // @include       https://www.youtube.com/watch?v=D-IvHf_1nbA
@@ -426,7 +425,6 @@
 // @include       https://www.sanfransentinel.com/immanuel-sucks.html
 // @include       https://www.youtube.com/watch?v=PfDjnLPy6Uw
 // @include       https://vimeo.com/148751763
-// @include       https://kahoot.it/
 // @include       https://discord.com/channels/@me/870794905528717362
 // @include       https://www.latlmes.com/entertainment/parents-say-doja-cat-to-change-name-as-its-inappropriate-1
 // @include       https://schoolbox.ofg.nsw.edu.au/
