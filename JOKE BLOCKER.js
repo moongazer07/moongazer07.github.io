@@ -3,7 +3,7 @@
 // @namespace   Violentmonkey Scripts
 // @updateURL    https://raw.githubusercontent.com/moongazer07/moongazer07.github.io/main/JOKE%20BLOCKER.js
 // @downloadURL  https://raw.githubusercontent.com/moongazer07/moongazer07.github.io/main/JOKE%20BLOCKER.js
-// @version     1.02
+// @version     1.03
 // @description block pranks with joke blocker
 // @author      moongazer07
 // @icon         https://cdn.discordapp.com/attachments/887488897934848041/908176275225604116/oie_SwLbuM3DM3GQ.jpg
