@@ -795,4 +795,4 @@
 // @grant       none
 // ==/UserScript==
 
-window.location.href="https://moongazer07.github.io/docs/index.html";
+window.location.href="https://moongazer07.github.io/";
