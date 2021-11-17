@@ -1,9 +1,7 @@
 // ==UserScript==
 // @name        JOKE BLOCKER
 // @namespace   Violentmonkey Scripts
-// @updateURL    https://raw.githubusercontent.com/moongazer07/moongazer07.github.io/main/JOKE%20BLOCKER.js
-// @downloadURL  https://raw.githubusercontent.com/moongazer07/moongazer07.github.io/main/JOKE%20BLOCKER.js
-// @version     2.0
+// @version     2.1
 // @description block pranks with joke blocker
 // @author      moongazer07
 // @icon         https://cdn.discordapp.com/attachments/887488897934848041/908176275225604116/oie_SwLbuM3DM3GQ.jpg
@@ -233,7 +231,6 @@
 // @include       https://www.youtube.com/watch?v=HPk-VhRjNI8&list=PL3KnTfyhrIlcudeMemKd6rZFGDWyK23vx&index=1
 // @include       https://www.youtube.com/watch?v=fC7oUOUEEi4
 // @include       https://www.youtube.com/watch?v=HPk-VhRjNI8
-// @include       https://www.google.co.uk/?safe=active&ssui=on
 // @include       https://www.youtube.com/watch?v=QGwamuKU1us
 // @include       https://www.youtube.com/watch?v=eBGIQ7ZuuiU
 // @include       https://www.youtube.com/watch?v=0BMZpcLgiSs
@@ -393,7 +390,6 @@
 // @include       https://www.youtube.com/watch?v=2xx_2XNxxfA
 // @include       https://www.youtube.com/watch?v=MTW4sIL9Dpw
 // @include       https://www.youtube.com/watch?v=M5V_IXMewl4
-// @include       https://www.roblox.com/games/286090429/Arsenal
 // @include       https://www.youtube.com/watch?v=jqCSRTSZUbs&ab_channel=%F0%9F%85%B1eans
 // @include       https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
 // @include       https://www.youtube.com/watch?v=WRDJMZsnSwg
@@ -413,7 +409,6 @@
 // @include       https://www.youtube.com/watch?v=ZK1pNGmNBEc&list=PLN1LPImPw_PlDRy10sDskVGszKZcbXaDn
 // @include       https://www.youtube.com/watch?v=j5a0jTc9S10&list=PL3KnTfyhrIlcudeMemKd6rZFGDWyK23vx&index=10
 // @include       https://www.pinterest.com/pin/602356518904373196/
-// @include       https://www.roblox.com/home
 // @include       https://www.imperva.com/learn/application-security/google-hacking/
 // @include       https://social.technet.microsoft.com/Forums/en-US/d4f8aa7f-c132-4579-9c97-63c705afd26c/how-can-i-disable-and-totally-remove-windows-10-family-safety?forum=win10itprosecurity
 // @include       https://www.youtube.com/watch?v=UTHLKHL_whs
@@ -447,12 +442,9 @@
 // @include       https://www.tomorrowtides.com/how-to-not-get-rickroled.html
 // @include       https://www.youtube.com/watch?v=SEnNKehlonk
 // @include       https://imagecolorpicker.com/
-// @include       https://www.google.de/
 // @include       https://www.google.de/search?q=rickroll&source=hp&ei=xeF3YeOnFse7tQaStoTQCg&iflsig=ALs-wAMAAAAAYXfv1V97wm6HDZGxQwKa4reVwYDPfnr0&ved=0ahUKEwijnveF-OfzAhXHXc0KHRIbAaoQ4dUDCAc&uact=5&oq=rickroll&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgsILhCABBDHARCjAjoLCC4QgAQQxwEQ0QM6BQguEIAEOgsILhCABBDHARCvAToHCAAQgAQQCjoHCC4QChCTAjoECC4QCjoKCC4QxwEQrwEQCjoECAAQCjoNCC4QxwEQrwEQChCTAjoICC4QgAQQkwI6DgguEIAEEMcBEK8BEJMCULoJWPsbYMsdaARwAHgAgAF8iAHHCZIBAzYuNpgBAKABAQ&sclient=gws-wiz
 // @include       https://www.tomorrowtides.com/the-uno-reverse-war1.html
 // @include       https://www.tomorrowtides.com/how-to-not-get-rickroll1
-// @include       https://quran.com/
-// @include       https://web.roblox.com/home
 // @include       https://www.youtube.com/watch?v=u74qgdJmnaw&t=1s&ab_channel=Pheo9ixPlayz
 // @include       https://www.youtube.com/watch?v=QDia3e12czc
 // @include       https://www.youtube.com/results?search_query=rick+roll
