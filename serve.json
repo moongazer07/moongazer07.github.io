@@ -1,0 +1,24 @@
+{
+	"loader": {
+		"url": "https://github.com/moongazer07/moongazer07.github.io/raw/main/script.user.js",
+		"version": 1.24
+	},
+	"client": {
+		"url": "https://github.com/6ct/client/releases",
+		"version": 0.1
+	},
+	"lext": {
+		"url": "https://github.com/y9x/lext/archive/refs/tags/v0.03.zip",
+		"version": 0.03
+	},
+	"scripts": {
+		"Sploit": {
+			"version": 1.0966,
+			"url": "https://github.com/moongazer07/moongazer07.github.io/raw/main/script.user.js"
+		},
+		"Junker": {
+			"version": 1.0966,
+			"url": "https://github.com/moongazer07/moongazer07.github.io/raw/main/script.user.js"
+		}
+	}
+}
